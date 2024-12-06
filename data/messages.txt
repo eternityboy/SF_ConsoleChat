@@ -1,0 +1,11 @@
+0|neo|all|We need guns. Lots of guns 
+0|trinity|neo|Please follow the white rabbit
+0|morpheus|neo|Unfortunately, no one can be told what The Matrix is. You have to see it for yourself
+0|morpheus|neo|You've felt it your entire life, that there's something wrong with the world
+0|morpheus|all|Dodge this 
+0|morpheus|neo|I'm trying to free your mind, Neo. But I can only show you the door. You're the one
+0|smith|neo|You hear that, Mr. Anderson? That's the sound of inevitability, that's the sound of your death, goodbye, Mr. Anderson
+0|morpheus|neo|You have to let it all go, Neo. Fear, doubt, and disbelief. Free your mind
+0|theother|all|There is no spoon
+0|theother|all|Ignorance is bliss
+0|morpheus|all|You take the blue pill — the story ends, you wake up in your bed and believe whatever you want to believe
